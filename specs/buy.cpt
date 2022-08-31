@@ -1,0 +1,37 @@
+Created by feyzaates on 24.08.2022
+
+This is a concept file with following syntax for each concept.
+# Buy
+* "addToCart" click if is visible
+* "proceedToCart" click
+* "1" second wait
+* "couponCode" get value
+* "closePop" click
+* "checkMarks" pick randomly and click
+* "enterCode" send value
+* "useCode" click
+* "buyNow" click
+* "editAddress" click
+* "birthDate" click
+* "yearSelect" click
+* "2000" click
+* "monthSelect" click
+* "july" click
+* "day" click
+* "submit" click
+* "shipping" click
+* "confirm" click
+* "cardNum" sendKeys "4871 0499 9999 9910"
+* "nameOnCard" sendKeys "user"
+* "expiredMonth" click
+* "month" click
+* "expireDateYear" click
+* "year" click
+* "CVC" sendKeys "737"
+* "paymentChoice" click
+* "salesAgreement" click
+* "policy1" click
+* "policy2" click
+* "submitPayment" click
+
+* "1" second wait

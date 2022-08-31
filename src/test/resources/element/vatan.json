@@ -1,0 +1,325 @@
+[
+  {
+    "keyword": "categories",
+    "type": "css",
+    "value": "[class='nav-first-link']"
+  },
+  {
+    "keyword": "subCategories1",
+    "type": "css",
+    "value": "[class='dropdown-menu-list__link']"
+  },
+  {
+    "keyword": "subCategories2",
+    "type": "css",
+    "value": "[class='magic-parent-link normal-nav-link no-brand']"
+  },
+  {
+    "keyword": "products",
+    "type": "css",
+    "value": "[class='product-list__product-code']"
+  },
+  {
+    "keyword": "computerCategoryButtons",
+    "type": "css",
+    "value": "[class='btn btn-filter']"
+  },
+  {
+    "keyword": "picturedCategoryButtons",
+    "type": "css",
+    "value": "[class='prd-subcat-link']"
+  },
+  {
+    "keyword": "checkCategory",
+    "type": "css",
+    "value": "[class='staticpage-title']"
+  },
+  {
+    "keyword": "empty",
+    "type": "xpath",
+    "value": "//*[text()='ARADIĞINIZ KRİTERLERE']"
+  },
+  {
+    "keyword": "addToCart",
+    "type": "css",
+    "value": "[class='btn btn-success basketBTN']"
+  },
+  {
+    "keyword": "proceedToCart",
+    "type": "css",
+    "value": "[class='btn btn-finish btn-finish__dropdown']"
+  },
+  {
+    "keyword": "buyNow",
+    "type": "css",
+    "value": "[class='btn btn-block btn-success input-lg basket-ordersummary__button continuebutton btn-arrow']"
+  },
+  {
+    "keyword": "confirm",
+    "type": "css",
+    "value": "[class='btn btn-success btn-block input-lg basket-ordersummary__button btn-arrow']"
+  },
+  {
+    "keyword": "loginButton",
+    "type": "css",
+    "value": "[class='icon-user']"
+  },
+  {
+    "keyword": "loginLine",
+    "type": "xpath",
+    "value": "//*[text()='Giriş Yap']"
+  },
+  {
+    "keyword": "mail",
+    "type": "id",
+    "value": "email"
+  },
+  {
+    "keyword": "password",
+    "type": "id",
+    "value": "pass"
+  },
+  {
+    "keyword": "login",
+    "type": "id",
+    "value": "login-button"
+  },
+  {
+    "keyword": "couponCode",
+    "type": "id",
+    "value": "extrawarranty_couponCode"
+  },
+  {
+    "keyword": "enterCode",
+    "type": "name",
+    "value": "discountCode"
+  },
+  {
+    "keyword": "closePop",
+    "type": "id",
+    "value": "closePop"
+  },
+  {
+    "keyword": "useCode",
+    "type": "id",
+    "value": "basket-ordersummary__couponBTN"
+  },
+  {
+    "keyword": "checkMarks",
+    "type": "css",
+    "value": "[class='checkmark']"
+  },
+  {
+    "keyword": "myAccount",
+    "type": "id",
+    "value": "btnMyAccount"
+  },
+  {
+    "keyword": "addressInfo",
+    "type": "xpath",
+    "value": "//*[text()='Adres Bilgilerim']"
+  },
+  {
+    "keyword": "addNewAddress",
+    "type": "css",
+    "value": "[class='btn btn-default callNewAddressForm']"
+  },
+  {
+    "keyword": "addressTitle",
+    "type": "id",
+    "value": "AddressRecordName"
+  },
+  {
+    "keyword": "nameSurname",
+    "type": "id",
+    "value": "NameandSurname"
+  },
+  {
+    "keyword": "PhoneNumber",
+    "type": "id",
+    "value": "Gsm"
+  },
+  {
+    "keyword": "cityName",
+    "type": "id",
+    "value": "SelectedCityName"
+  },
+  {
+    "keyword": "İzmir",
+    "type": "css",
+    "value": "[value='İZMİR']"
+  },
+  {
+    "keyword": "townName",
+    "type": "name",
+    "value": "SelectedTownName"
+  },
+  {
+    "keyword": "Buca",
+    "type": "css",
+    "value": "[value='BUCA']"
+  },
+  {
+    "keyword": "explanation",
+    "type": "id",
+    "value": "Address"
+  },
+  {
+    "keyword": "notACitizen",
+    "type": "xpath",
+    "value": "(//*[@class='checkmark'])[3]"
+  },
+  {
+    "keyword": "submit",
+    "type": "xpath",
+    "value": "//*[text()='KAYDET']"
+  },
+  {
+    "keyword": "editAddress",
+    "type": "xpath",
+    "value": "(//*[@class='callAddressForm'])[1]"
+  },
+  {
+    "keyword": "birthDate",
+    "type": "name",
+    "value": "BirthDate"
+  },
+  {
+    "keyword": "yearSelect",
+    "type": "xpath",
+    "value": "(//*[@class='yearselect'])[1]"
+  },
+  {
+    "keyword": "2000",
+    "type": "css",
+    "value": "[value='2000']"
+  },
+  {
+  "keyword": "monthSelect",
+  "type": "xpath",
+  "value": "(//*[@class='monthselect'])[1]"
+  },
+  {
+    "keyword": "july",
+    "type": "xpath",
+    "value": "(//*[text()='Tem'])[1]"
+  },
+
+  {
+    "keyword": "day",
+    "type": "xpath",
+    "value": "(//*[@class='weekend available'])[3]"
+  },
+  {
+    "keyword": "idNum",
+    "type": "name",
+    "value": "Tckn"
+  },
+  {
+    "keyword": "cardNum",
+    "type": "id",
+    "value": "cardnumber"
+  },
+  {
+    "keyword": "nameOnCard",
+    "type": "id",
+    "value": "cardholder"
+  },
+  {
+    "keyword": "expiredMonth",
+    "type": "id",
+    "value": "cardexpiredatemonth"
+  },
+  {
+    "keyword": "month",
+    "type": "css",
+    "value": "[value='03']"
+  },
+  {
+    "keyword": "expireDateYear",
+    "type": "id",
+    "value": "cardexpiredateyear"
+  },
+  {
+    "keyword": "year",
+    "type": "css",
+    "value": "[value='30']"
+  },
+  {
+    "keyword": "CVC",
+    "type": "id",
+    "value": "cardcvv2"
+  },
+  {
+    "keyword": "salesAgreement",
+    "type": "xpath",
+    "value": "//*[@class='wrapper-checkbox color-blue']//*[@class='checkmark']"
+  },
+  {
+    "keyword": "submitPayment",
+    "type": "id",
+    "value": "submitPayment"
+  },
+  {
+    "keyword": "policy1",
+    "type": "xpath",
+    "value": "(//*[@class='wrapper-checkbox']//*[@class='checkmark'])[4]"
+  },
+  {
+    "keyword": "policy2",
+    "type": "xpath",
+    "value": "(//*[@class='wrapper-checkbox']//*[@class='checkmark'])[3]"
+  },
+  {
+    "keyword": "paymentChoice",
+    "type": "xpath",
+    "value": "(//*[@class='wrapper-radio']//*[@class='checkmark'])[1]"
+  },
+  {
+    "keyword": "shipping",
+    "type": "xpath",
+    "value": "(//*[@class='wrapper-radio']//*[@class='checkmark'])[2]"
+  },
+  {
+    "keyword": "",
+    "type": "",
+    "value": ""
+  },
+  {
+    "keyword": "",
+    "type": "",
+    "value": ""
+  },
+  {
+    "keyword": "",
+    "type": "",
+    "value": ""
+  },
+  {
+    "keyword": "",
+    "type": "",
+    "value": ""
+  },
+  {
+    "keyword": "",
+    "type": "",
+    "value": ""
+  },
+  {
+    "keyword": "",
+    "type": "",
+    "value": ""
+  },
+  {
+    "keyword": "",
+    "type": "",
+    "value": ""
+  },
+  {
+    "keyword": "",
+    "type": "",
+    "value": ""
+  }
+
+
+]

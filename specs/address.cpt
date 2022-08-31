@@ -1,0 +1,18 @@
+Created by feyzaates on 24.08.2022
+
+This is a concept file with following syntax for each concept.
+# Add address
+* "1" second wait
+* "myAccount" click
+* "addressInfo" click
+* "addNewAddress" click
+* "addressTitle" sendKeys "iş adresi"
+* "nameSurname" sendKeys "test test"
+* "PhoneNumber" sendKeys "5536789567"
+* "cityName" click
+* "İzmir" click
+* "townName" click
+* "Buca" click
+* "explanation" sendKeys "tınaztepe depark beta binası"
+* "idNum" sendKeys "38467495602"
+* "submit" click

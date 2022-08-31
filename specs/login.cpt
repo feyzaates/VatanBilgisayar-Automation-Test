@@ -1,0 +1,10 @@
+Created by feyzaates on 24.08.2022
+
+This is a concept file with following syntax for each concept.
+# Login
+* "loginButton" click
+* "loginLine" click
+* "mail" sendKeys "feyzanur.ates@testinium.com"
+* "password" sendKeys "Agustos2022*"
+* "2" second wait
+* "login" click

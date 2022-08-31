@@ -1,0 +1,10 @@
+# Project exclude paths
+/shelf/
+/.idea
+/target
+/out
+/reports
+/logs
+/*.iml
+.gauge
+/env

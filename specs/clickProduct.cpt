@@ -1,0 +1,11 @@
+Created by feyzaates on 24.08.2022
+
+This is a concept file with following syntax for each concept.
+# Pick random product
+* "1" second wait
+* "categories" pick randomly and click
+* "1" second wait
+* "checkCategory" is visible "picturedCategoryButtons" pick randomly and click
+* "1" second wait
+* "products" pick randomly and click
+* "1" second wait
