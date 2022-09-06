@@ -41,6 +41,7 @@ public class Steps extends BaseTest {
     public void pickAndClick(String str1,String str2){
         methods.randPickVisibleOnes(str1,str2);
     }
+
     @Step("<key> pick randomly, hover and click")
     public void randHoverClick(String str){
         WebElement element = methods.randPick(str);
