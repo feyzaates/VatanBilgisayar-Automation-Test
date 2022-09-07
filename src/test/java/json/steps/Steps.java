@@ -22,7 +22,7 @@ public class Steps extends BaseTest {
     }
 
     @Step("<key> click")
-    public void clickById(String str) {
+    public void click(String str) {
         methods.click(str);
     }
 
@@ -83,7 +83,7 @@ public class Steps extends BaseTest {
     }
 
     @Step("<key> is visible <key> pick randomly and click")
-    public void clickRandIsVisible(String check,String str){
+    public void clickRandIfIsVisible(String check, String str){
         if (methods.isVisible(check)){
             randClick(str);
         }
