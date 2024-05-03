@@ -1,4 +1,4 @@
-Coded by using the Selenium library.
+Coded by using the Selenium.
 
 ## Test Scenario
 
